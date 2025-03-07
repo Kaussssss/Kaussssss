@@ -46,9 +46,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="203" src="https://media.giphy.com/media/XNinGBcXr8A2bGiUgI/giphy.gif?cid=790b7611g5szhi6uqadbj52615tb7x3ogzyrj0iapzi7hcfk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="left" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4_OnnNWRipITQo-bd-dGcXJzonSdG-M8YmQ&s"  />
 
 ###
 
@@ -58,18 +56,22 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kaussssss/Kaussssss/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaussssss&radius=16&theme=noctis-minimus&area=true&order=5&custom_title=ADHD%20GRAPH%20:33333" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Kaussssss/count.svg?"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Kaussssss/Kaussssss/output/snake.svg" alt="Snake animation" />
 
 ###
