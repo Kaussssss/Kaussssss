@@ -3,7 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kaussssss&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Kaussssss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&custom_title=Stats%20:P" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaussssss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true&custom_title=Languages%20:3" height="150" alt="languages graph"  />
 </div>
@@ -47,7 +46,9 @@
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/XNinGBcXr8A2bGiUgI/giphy.gif?cid=790b7611g5szhi6uqadbj52615tb7x3ogzyrj0iapzi7hcfk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<br clear="both">
+
+<img align="left" height="203" src="https://media.giphy.com/media/XNinGBcXr8A2bGiUgI/giphy.gif?cid=790b7611g5szhi6uqadbj52615tb7x3ogzyrj0iapzi7hcfk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
