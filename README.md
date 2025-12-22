@@ -23,7 +23,7 @@ Always building, always learning, always shipping.
   <a href="https://github.com/kaussssss" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
-  <a href="https://linkedin.com/in/kaustubh-chauhan" target="_blank">
+  <a href="https://www.linkedin.com/in/kaustubhchauhan/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
   <a href="https://instagram.com/idbyrows" target="_blank">
